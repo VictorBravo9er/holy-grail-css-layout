@@ -1,0 +1,8 @@
+{
+  // "livePreview.serverRoot": "./",
+  "livePreview.autoRefreshPreview": "On All Changes in Editor",
+  "livePreview.portNumber": 5501,
+  "editor.indentSize": 2,
+  // "html.format.wrapAttributesIndentSize": 2
+  // "editor.insertSpaces": true
+}
