@@ -73,6 +73,8 @@ nav {
 }
 .inner-grid {
   grid-area: area-content;
+  overflow-y: scroll;
+  margin: 5px;
   /* grid-column: 25/-1;
   grid-row: 20/-1; */
 }
